@@ -4,8 +4,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
 ![Model](https://img.shields.io/badge/Model-VGG16-red)
-![Accuracy](https://img.shields.io/badge/Accuracy-98%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 An AI-powered **DeepFake Detection Web Application** that analyzes videos using deep learning and computer vision techniques to classify them as **Real or Fake**.
 

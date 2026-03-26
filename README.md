@@ -259,16 +259,8 @@ Upload a video to detect whether it is **Real or Fake**.
 * Deploy on cloud platforms
 * Add batch video processing
 
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 # ⭐ Acknowledgement
 
 This project demonstrates the application of **deep learning in combating AI-generated media manipulation**.
 
-If you found this useful, ⭐ star the repository!

@@ -1,0 +1,35 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+bin/
+lib/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+processed/
+Celeb-DF
+
+data/
+Celeb-DF.zip
+
+model
+Celeb-DF
+
+model/
+*.keras
+
+model/
+02deepfake_detector_v2.keras
+
+*.keras

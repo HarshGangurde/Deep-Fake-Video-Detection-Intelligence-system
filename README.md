@@ -160,55 +160,6 @@ Sigmoid
 | Epochs        | 35         |
 | Image Size    | 128×128    |
 
----
-
-# 📊 Model Performance
-
-**Accuracy: 98%**
-
-### Confusion Matrix
-
-```
-[[639  15]
- [  9 801]]
-```
-
-### Classification Report
-
-| Class | Precision | Recall | F1 Score |
-| ----- | --------- | ------ | -------- |
-| Real  | 0.99      | 0.98   | 0.98     |
-| Fake  | 0.98      | 0.99   | 0.99     |
-
----
-
-# 📁 Project Structure
-
-```
-deepfake-detection-system/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── model/
-│   └── deepfake_detector.keras
-│
-├── scripts/
-│   ├── preprocessing.py
-│   ├── train_model.py
-│
-├── templates/
-│   ├── upload.html
-│   ├── webcam.html
-│   └── result.html
-│
-├── static/
-│   ├── style.css
-│   └── script.js
-│
-└── uploads/
-```
 
 ---
 
